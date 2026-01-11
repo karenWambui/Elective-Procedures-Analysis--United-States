@@ -1,5 +1,6 @@
 
 NB: LENGTH OF STAY(LOS)
+
 **Executive Summary**
 I used Power BI to create this project to analyze elective procedures across health service areas in the United States to understand discharge patterns,
 length of stay (LOS), and cost drivers.Using hospital discharge data, the analysis identifies how patient severity, mortality risk, procedure type, 
